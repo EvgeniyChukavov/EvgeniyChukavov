@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет! Я Евгений 👋
 
-<!--
-**EvgeniyChukavov/EvgeniyChukavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Инженер по тестированию (QA Engineer)
 
-Here are some ideas to get you started:
+Я — QA-инженер, специализируюсь на ручном тестировании веб-приложений, мобильных приложений и API. Прошёл профессиональную переподготовку по программе «Инженер по тестированию» (Яндекс). Освоил полный цикл тестирования: от анализа требований до оформления баг-репортов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Навыки и инструменты
+
+**Тестирование:**
+- Ручное тестирование (Manual QA)
+- Составление чек-листов и тест-кейсов
+- Написание баг-репортов
+- Функциональное и регрессионное тестирование
+- Тестирование API
+- Кроссбраузерное и кроссплатформенное тестирование
+- Тестирование вёрстки на адаптивность
+- Тестирование мобильных приложений
+
+**Инструменты:**
+- Charles, Postman, SQL, Git, Figma
+- Google Таблицы, Excel
+- ЯндексGPT, ChatGPT
+
+**Технологии:**
+- REST API, клиент-серверная архитектура
+- Базы данных и SQL-запросы
+- HTML, CSS (понимание вёрстки)
+- Docker, Git (теория)
+
+---
